@@ -1,0 +1,19 @@
+﻿body {
+    display: block;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: absolute;
+}
+
+#box {
+    width: 800px;
+    height: 600px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -400px;
+    margin-top: -300px;
+    background-color: blue;
+}
